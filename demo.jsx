@@ -1,5 +1,5 @@
 
-import { CreateFormBindState } from "tool/util";
+import { CreateFormBindState } from "./index.js";
 class Page extends Component{
 
     constructor(props){
